@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d1fbe9ca.css",
+    "main.js": "/static/js/main.ddf3d533.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/2.png": "/static/media/2.fa1c9a4530195624c270.png",
+    "static/media/1.png": "/static/media/1.23d949b09856490d3255.png",
+    "static/media/PTSans-Regular.ttf": "/static/media/PTSans-Regular.334e18134af8ff169983.ttf",
+    "static/media/Montserrat-Regular.ttf": "/static/media/Montserrat-Regular.ac98a5f5ca71180fe293.ttf",
+    "static/media/Poppins-Regular.ttf": "/static/media/Poppins-Regular.35d26b781dc5fda684cc.ttf",
+    "static/media/Poppins-Medium.ttf": "/static/media/Poppins-Medium.673ed42382ab264e0bf5.ttf",
+    "static/media/OpenSans-Regular.ttf": "/static/media/OpenSans-Regular.1b0809d519837cb7aad3.ttf",
+    "static/media/1.jpeg": "/static/media/1.ae904380a512d4213d74.jpeg",
+    "static/media/JosefinSlab-Regular.ttf": "/static/media/JosefinSlab-Regular.ae0b86d50c2cebcde013.ttf",
+    "static/media/JosefinSlab-Bold.ttf": "/static/media/JosefinSlab-Bold.a0ae3ff6fd855fd1ab1c.ttf",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.d1fbe9ca.css.map": "/static/css/main.d1fbe9ca.css.map",
+    "main.ddf3d533.js.map": "/static/js/main.ddf3d533.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d1fbe9ca.css",
+    "static/js/main.ddf3d533.js"
+  ]
+}
